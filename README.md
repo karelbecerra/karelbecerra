@@ -1,4 +1,10 @@
-### Hi there 👋
+Machine Learning Engineer with +15 expertise in scalable cloud architectures, computer vision, deep learning. Hands on experience ML/AI from research papers into engineer production ready environments, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Generative AI and real-world agents/agentic AI solutions. Deep experience in frontend and backend, microservices, cloud platforms, and technical leadership across global organizations.
+
+# PUBLICATIONS & AI RESEARCH
+
+Published peer-reviewed research in **Computers in Biology and Medicine leveraging zero-shot Segment Anything Models (SAM)** and deep learning:
+*	**National Library of Medicine, 2025**: "Sex classification from hand X-ray images in pediatric patients: How zero-shot Segment Anything Model (SAM) can improve medical image analysis" (transfer learning, dataset engineering, preprocessing, augmentation, model training, evaluation, explainability, training pipeline with configurable backbones, ensemble learning) (https://www.sciencedirect.com/science/article/pii/S001048252501412X)
+
 
 <!--
 **karelbecerra/karelbecerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
